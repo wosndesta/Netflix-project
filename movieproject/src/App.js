@@ -7,9 +7,11 @@ import Nav from './Nav'
 
 
 
+
 function App() {
   return (
-		<div className="App">
+	  <div className="App">
+		  
 	<Nav />	
 	<Banner />
 			<Row title="Netflix Original" fetchUrl={requests.fetchNetflixOriginals}

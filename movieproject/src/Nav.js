@@ -27,6 +27,12 @@ function Nav() {
 				src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png"
 				alt="Avatar logo"
 			/>
+			<img
+				className="nav__n"
+				src=
+				"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/1200px-Netflix_2015_N_logo.svg.png"
+				alt="Netflix N logo"
+			/>
 		</div>
 	);
 }
